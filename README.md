@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Syahid
 - 👀 I’m interested in App development and Game development
-- 🌱 I'm currently working as a freelance android developer
+- 🌱 I'm currently working as a freelance Mobile developer
 - 🚀 You can get me here syahidalbaddry@gmail.com/@syahid.flz
 
 <!---
