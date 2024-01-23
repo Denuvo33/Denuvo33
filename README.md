@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Syahid
-- 👀 I’m interested in App development and Game development
+- 👀 I’m interested in Mobile development and Game development
 - 🌱 I'm currently working as a freelance Mobile developer
-- 🚀 You can get me here syahidalbaddry@gmail.com/@syahid.flz
+- 🚀 You can get me here syahidalbaddry@gmail.com
 
 <!---
 Denuvo33/Denuvo33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
